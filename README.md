@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Wolframe107
-- 👀 I’m interested in things
-- 🌱 I’m currently learning things
-- 💞️ I’m looking to collaborate on things
 - 📫 millekage@gmail.com
 
 <!---
