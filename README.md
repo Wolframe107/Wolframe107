@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Wolframe107
+- 👋 Hi, I’m Mille Kåge
+- 4th year CS student at KTH in Stockholm
 - 📫 millekage@gmail.com
 
 <!---
