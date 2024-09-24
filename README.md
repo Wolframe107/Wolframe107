@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mille Kåge
-- 4th year CS student at KTH in Stockholm
+- 5th year CS student at KTH in Stockholm
 - 📫 millekage@gmail.com
 
 <!---
