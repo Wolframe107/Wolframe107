@@ -1,4 +1,4 @@
--👋 I’m Mille Kåge
+- 👋 I’m Mille Kåge
 - CS grad from KTH, Stockholm
 - Exploring XR + fullstack web dev
 - 📫 millekage@gmail.com
